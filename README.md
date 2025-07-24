@@ -1,4 +1,3 @@
-# Facial_recognition
 # Facial Expression Recognition using CNN (FER2013)
 A deep learning project to detect human emotions from facial images using a CNN trained on the FER2013 dataset.
 
